@@ -1,0 +1,23 @@
+{
+  "name": "genericnodemodules",
+  "version": "1.0.0",
+  "description": "",
+  "main": "ImmediatelyInvokeFunc.js",
+  "dependencies": {
+    "angular": "^1.5.7",
+    "angularjs": "^0.0.1",
+    "express": "^4.14.0",
+    "body-parser": "^1.15.2",
+    "node-pre-gyp": "^0.6.29",
+    "mongodb": "^2.2.1",
+    "requirejs": "^2.2.0",
+    "nodejs": "^0.0.0",
+    "serve-index": "^1.8.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
